@@ -1,0 +1,20 @@
+.calcBtn{
+    width: 25%;
+    font-size: 50px;
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    border: 2px double black;
+  
+    border-radius: 30px;
+}
+.clearbtn{
+    width: 75%;
+    font-size: 50px;
+    border-radius: 30px;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    border: 2px double black;
+}
+
+
+
+  

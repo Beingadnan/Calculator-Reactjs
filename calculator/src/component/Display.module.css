@@ -1,0 +1,11 @@
+.display{
+    font-size: 50px;
+    width: 90%;
+    margin: 10px;
+     margin-left: 4.2% ;
+     box-shadow: 0px 0px 3px black;
+     border-radius: 10px;
+     background-color: #fdfdfd;
+     background-image: linear-gradient(62deg, #f1e7e3 0%, #fbf1f1 100%);
+     
+}
